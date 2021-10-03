@@ -1,1 +1,1 @@
-# python_coding_test
+# python 1일 1알고리즘
